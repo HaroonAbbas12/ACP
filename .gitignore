@@ -1,0 +1,11 @@
+# Ignore build files
+/build/
+ /dist/
+ /nbproject/private/
+
+# Ignore compiled classes
+*.class
+
+# Ignore logs
+*.log
+
